@@ -1,0 +1,19 @@
+{
+  "name": "pupeeter-crawl",
+  "version": "1.0.0",
+  "description": "crawler test using puppeeter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^6.0.0",
+    "node-fetch": "^2.1.2",
+    "puppeteer": "^1.3.0",
+    "request": "^2.85.0",
+    "sanitize-filename": "^1.6.1",
+    "valid-url": "^1.0.9"
+  }
+}
